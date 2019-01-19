@@ -37,7 +37,7 @@ end
 
 # Define your play method below
 
-def paly(board)
+def play(board)
 
   count = 0
 
