@@ -45,3 +45,4 @@ def paly(board)
     turn(board)
     count = count + 1
   end
+end
