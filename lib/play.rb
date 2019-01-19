@@ -36,3 +36,14 @@ def turn(board)
 end
 
 # Define your play method below
+
+def paly(board)
+
+  count = 0
+
+  until count == 8 do
+    turn(board)
+    count = count + 1
+  end
+    
+    
